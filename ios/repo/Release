@@ -1,0 +1,8 @@
+Origin: NullPointerException
+Label: mayuchi_Nora
+Suite: stable
+Version: 1.0
+Codename: mayuchinora
+Architectures: iphoneos-arm
+Components: main
+Description: I love Visual Novels.

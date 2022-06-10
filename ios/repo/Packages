@@ -1,0 +1,19 @@
+Package: com.mayuchinora.sprbr
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: mayuchi_Nora
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debs/com.mayuchinora.sprbr_1.0_iphoneos.deb
+Size: 1347954
+MD5sum: 4272501a23293316bf2351ca4ddaf62f
+SHA1: a4051b9c20ac0d23559bcb5ea42738f9909e3317
+SHA256: 20474a43fc0b3f4fcbadc48a26deb8019cba78d2375c1cf9d800ad198aeaa62f
+SHA512: b8a39ae373210c706a5c0bcd2c87487a082e80cadc304f94282b2ba8617fa0ff34cc70709925cd99e7c6d98100ea70aab06b177856bcb4128cc93b8e98f34984
+Homepage: https://mayunora-memo.com
+Description: I love Summer Pockets & VisualArts/Key.
+Name: Summer Pockets REFLECTION BLUE Respring
+Author: mayuchi_Nora
+SileoDepiction: https://mayuchiNora.github.io/ios/repo/depictions/sprbr.json
+Icon: https://mayuchiNora.github.io/ios/repo/icons/sprbr.png
+

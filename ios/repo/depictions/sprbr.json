@@ -1,0 +1,25 @@
+{
+  "minVersion": "0.1",
+  "class": "DepictionTabView",
+  "headerImage": "https://mayuchiNora.github.io/ios/repo/images/SummerPocketsReflectionBlue.png",
+  "tintColor": "#A7F1FF",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "title": "なにこれ"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Summer Pockets REFLECITON BLUEのカスタムRespringロゴだよ",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ]
+}
